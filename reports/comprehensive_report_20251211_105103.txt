@@ -1,0 +1,21 @@
+
+==================================================
+           FINANCE REPORT: COMPREHENSIVE REPORT
+==================================================
+Analysis Period: 2025-12-01 to 2025-12-10
+
+TOTAL EXPENSES: ₹7,160.00
+--------------------------------------------------
+CATEGORY-WISE BREAKDOWN:
+
+Category             | Total Amount (₹)     | Percentage (%)
+------------------------------------------------------------
+Bills                |             3,860.00 |      53.91
+Other                |             1,600.00 |      22.35
+Food                 |             1,000.00 |      13.97
+Shopping             |               600.00 |       8.38
+Entertainment        |               100.00 |       1.40
+
+--------------------------------------------------
+Note: All figures are in Indian Rupees (₹).
+Report Generated On: 2025-12-11 10:51:03
