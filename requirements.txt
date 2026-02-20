@@ -1,0 +1,2 @@
+# No external dependencies needed for the Standard Version
+# All functionality relies on built-in Python modules (csv, datetime, etc.)
